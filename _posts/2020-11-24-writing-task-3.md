@@ -8,10 +8,9 @@ categories: blog-post writing-task
 Remaining secure on the internet may not be as hard as it seems. Passwords are the primary way of remaining secure on the internet, but most people use ‘1234567’, or ‘password’ as their passwords. Regardless of the strength of your password reusing it is an issue. But how can you secure your accounts? Well, let’s explore some of your options.
 
 ## 2-Factor Authentication
-{% figure caption:"*Google and Microsoft's authenticator app icons.*" %}
 ![Google Authenticator](/assets/20-11-24/Google_Authenticator.png)![Microsoft Authenticator](/assets/20-11-24/Microsoft_Authenticator.png)
-{% endfigure %}
 
+*Google and Microsoft's authenticator app icons.*
 
 One of the biggest ways you can secure your accounts is to enable 2-factor authentication. 2-factor authentication works by requiring another way of identifying yourself. The three factors of authentication are the following:
 * Something you know, such as a password.
