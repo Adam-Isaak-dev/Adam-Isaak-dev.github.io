@@ -3,7 +3,7 @@ layout: post
 title:  "TLS & SSL"
 date:   2020-11-24 16:38:00 -0600
 categories: blog-post writing-task
-image: /assets/images/writing-task-2-pic.png
+image: /assets/images/writing-task-2-pic.jpg
 ---
 
 If you're anything like me, tech inclined and curious, you’ve probably had a point where you have wondered how your information is secured while wandering the internet. Well let’s jump down a rabbit hole of internet security, encryption, and cryptography, and learn about Transport Layer Security (TLS).

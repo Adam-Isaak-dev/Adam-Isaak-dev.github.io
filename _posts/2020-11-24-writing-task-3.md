@@ -3,7 +3,7 @@ layout: post
 title:  "Password Management"
 date:   2020-11-24 16:38:00 -0600
 categories: blog-post writing-task
-image: /assets/images/writing-task-3-pic.png
+image: /assets/images/writing-task-3-pic.jpg
 ---
 
 Remaining secure on the internet may not be as hard as it seems. Passwords are the primary way of remaining secure on the internet, but most people use ‘1234567’, or ‘password’ as their passwords. Regardless of the strength of your password reusing it is an issue. But how can you secure your accounts? Well, let’s explore some of your options.

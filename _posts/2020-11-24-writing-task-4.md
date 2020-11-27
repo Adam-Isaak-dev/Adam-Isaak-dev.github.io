@@ -3,7 +3,7 @@ layout: post
 title:  "HTML and CSS"
 date:   2020-11-24 17:15:00 -0600
 categories: blog-post writing-task
-image: /assets/images/writing-task-4-pic.png
+image: /assets/images/writing-task-4-pic.jpg
 ---
  
 Have you ever wondered what is behind the websites you visit? HTML (HyperText Markup Language) and CSS (Cascading Style Sheets) form the backbone of the websites you visit daily on a daily basis. Here is a short overview of how HTML and CSS work. 
