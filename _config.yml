@@ -16,7 +16,7 @@
 lang: en-US
 title: Adam Isaak dev
 email: adam.isaak.dev@gmail.com
-description:
+description: A personal portfolio and website for myself, and those interested.
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:

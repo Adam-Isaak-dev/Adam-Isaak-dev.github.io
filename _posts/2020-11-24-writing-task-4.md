@@ -44,7 +44,7 @@ Finally, there are HTML attributes. Attributes can be used for linking other fil
 ---
 ## CSS 
 In contrast to HTML, CSS provides the visual style and formatting of websites. CSS works by selecting an HTML element and adding some rules and assigning a value to it the rule. Let's break down that process. 
-A CSS selector is a name that identifies an HTML element/s that you want to 'select'. This can be in the form of the elements tag, class, or id. Next, there are CSS rules that you want to set for the selected element/s. They vary from changing the font size to the text colour, or the kind of font. Finally, there are CSS values. Values are the value assigned to a rule, that you want to change the element to.
+A CSS selector is a name that identifies an HTML element/s that you want to 'select'. This can be in the form of the elements tag, class, or id. Next, there are CSS rules that you want to set for the selected element/s. They vary from changing the font size to text colour, to many other things. Finally, there are CSS values. Values are the value assigned to a rule, that you want to change the element to.
 
 Here is an example of CSS changing the style of paragraph elements to font-height of 25px, red text, and a sans-serif font.
 ``` css
@@ -64,8 +64,8 @@ That wraps up a basic overview of HTML and CSS. Hopefully, you now understand th
 * [CSS tricks for excellent tips and tricks to make your website look great.](https://css-tricks.com/)
  
 ## Citations
-  >CSS. (2020, October 30). Retrieved November 01, 2020, from https://en.wikipedia.org/wiki/CSS
+>CSS. (2020, October 30). Retrieved November 01, 2020, from https://en.wikipedia.org/wiki/CSS
  
-  >HTML. (2020, October 29). Retrieved November 01, 2020, from https://en.wikipedia.org/wiki/HTML
+>HTML. (2020, October 29). Retrieved November 01, 2020, from https://en.wikipedia.org/wiki/HTML
  
-  >HTML: HyperText Markup Language. (n.d.). Retrieved November 01, 2020, from https://developer.mozilla.org/en-US/docs/Web/HTML
+>HTML: HyperText Markup Language. (n.d.). Retrieved November 01, 2020, from https://developer.mozilla.org/en-US/docs/Web/HTML

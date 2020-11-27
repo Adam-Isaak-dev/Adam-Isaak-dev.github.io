@@ -29,10 +29,10 @@ To be truly secure on the internet, every account you have should have a long, c
 Password managers work by taking all of your accounts and creating a unique password for them and then put those passwords into encrypted storage. The encrypted vault can only be accessed by a master password that you set (Which should be as strong as possible, remember that length is the greatest strength). Once you have logged in to the password manager it can then fills in your other accounts’ passwords, allowing you easy access to your accounts while making them more secure.
 
 The following are a few password managers you can use:
-[Dashlane](https://www.dashlane.com/)
-[LastPass](https://www.lastpass.com/)
-[1Password](https://1password.com/)
-[Bitwarden](https://bitwarden.com/)
+* [Dashlane](https://www.dashlane.com/)
+* [LastPass](https://www.lastpass.com/)
+* [1Password](https://1password.com/)
+* [Bitwarden](https://bitwarden.com/)
 
 
 ## How do they affect you?
