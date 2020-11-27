@@ -3,6 +3,7 @@ layout: post
 title:  "Password Management"
 date:   2020-11-24 16:38:00 -0600
 categories: blog-post writing-task
+image: /assets/images/writing-task-3-pic.png
 ---
 
 Remaining secure on the internet may not be as hard as it seems. Passwords are the primary way of remaining secure on the internet, but most people use ‘1234567’, or ‘password’ as their passwords. Regardless of the strength of your password reusing it is an issue. But how can you secure your accounts? Well, let’s explore some of your options.
@@ -48,3 +49,6 @@ In conclusion, use the tools at your disposal to be secure and be smart about ho
 > Scott, T. (Director). (2020, August 3). Why You Should Turn On Two Factor Authentication [Video file]. Retrieved October 25, 2020, from https://www.youtube.com/watch?v=hGRii5f_uSc
 
 > What Is Two-Factor Authentication (2FA)? (n.d.). Retrieved October 25, 2020, from https://authy.com/what-is-2fa/
+
+
+> *Splash Image by [Gerd Altmann](https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3938434) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3938434)*

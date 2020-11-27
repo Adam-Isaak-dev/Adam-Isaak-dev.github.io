@@ -3,6 +3,7 @@ layout: post
 title:  "TLS & SSL"
 date:   2020-11-24 16:38:00 -0600
 categories: blog-post writing-task
+image: /assets/images/writing-task-2-pic.png
 ---
 
 If you're anything like me, tech inclined and curious, you’ve probably had a point where you have wondered how your information is secured while wandering the internet. Well let’s jump down a rabbit hole of internet security, encryption, and cryptography, and learn about Transport Layer Security (TLS).
@@ -39,3 +40,6 @@ TLS is one of the major ways your daily internet usage is kept safe from those w
 > Transport Layer Security. (2020, October 17). Retrieved October 17, 2020, from https://en.wikipedia.org/wiki/Transport_Layer_Security
 
 > What is SSL, TLS and HTTPS? (n.d.). Retrieved October 17, 2020, from https://www.websecurity.digicert.com/en/ca/security-topics/what-is-ssl-tls-https
+
+
+> *Splash Image by [vishnu vijayan](https://pixabay.com/users/vishnu_kv-3192151/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2296269) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2296269)*

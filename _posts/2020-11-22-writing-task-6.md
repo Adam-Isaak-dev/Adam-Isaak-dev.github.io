@@ -3,6 +3,7 @@ layout: post
 title:  "Coding a simple puzzle game"
 date:   2020-11-22 20:44:00 -0600
 categories: blog-post writing-task
+image: /assets/images/writing-task-6-pic.png
 ---
 
 Through this post, I’m going to cover a simple puzzle game that I finished for an assignment in javascript.
@@ -67,4 +68,7 @@ The following diagram is an overview of the whole functionality of the game:
 
 *Program Flowchart*
 
-To summarize the functionality once more, the three primary components of the program are a reset function to reset the game, a click function that reacts if the user clicks on cards and either matches it or sets it to show, and finally a function that checks to see if the user has won.  
+To summarize the functionality once more, the three primary components of the program are a reset function to reset the game, a click function that reacts if the user clicks on cards and either matches it or sets it to show, and finally a function that checks to see if the user has won.
+
+
+> *Splash Image by [Boskampi](https://pixabay.com/users/boskampi-3788146/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1873854) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1873854)*

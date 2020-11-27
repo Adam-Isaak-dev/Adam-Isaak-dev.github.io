@@ -3,6 +3,7 @@ layout: post
 title:  "Basic Aggro Strategy in Magic the Gathering"
 date:   2020-11-24 16:45:00 -0600
 categories: blog-post writing-task
+image: /assets/images/writing-task-5-pic.png
 ---
 
 Aggressive (aggro) decks in Magic the Gathering (Magic or MtG) are decks that favor aggressive fast paced strategy. The goal of an aggro deck is to get an opponent's life total down to zero as fast as possible. Their strength lies in keeping their opponents off balance, and knocking them down quickly. Their weakness is they run out of steam if the game drags on. Here is the basic strategy behind aggro decks.
@@ -50,3 +51,5 @@ The following are key tactics to use while playing Aggro.
 
 ## Conclusion
 Aggro decks are powerful strategy in Magic, their strength coming from the sheer speed. But it is important for them to remain focused and effective, and keep the pressure on. Nonetheless, they are fun and entertaining to play, so good luck and have fun smashing face.
+
+>*Splash Image by [Ana Carolina Franco](https://pixabay.com/users/carufrannco-4599182/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2351448) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2351448)*

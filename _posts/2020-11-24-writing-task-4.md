@@ -3,6 +3,7 @@ layout: post
 title:  "HTML and CSS"
 date:   2020-11-24 17:15:00 -0600
 categories: blog-post writing-task
+image: /assets/images/writing-task-4-pic.png
 ---
  
 Have you ever wondered what is behind the websites you visit? HTML (HyperText Markup Language) and CSS (Cascading Style Sheets) form the backbone of the websites you visit daily on a daily basis. Here is a short overview of how HTML and CSS work. 
@@ -69,3 +70,6 @@ That wraps up a basic overview of HTML and CSS. Hopefully, you now understand th
 >HTML. (2020, October 29). Retrieved November 01, 2020, from https://en.wikipedia.org/wiki/HTML
  
 >HTML: HyperText Markup Language. (n.d.). Retrieved November 01, 2020, from https://developer.mozilla.org/en-US/docs/Web/HTML
+
+
+>*Splash Image by [James Osborne](https://pixabay.com/users/jamesmarkosborne-1640589/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1076536) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1076536)*
