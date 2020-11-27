@@ -6,7 +6,7 @@ I am Adam Isaak, an 18 year Canadian living in Winnipeg. I’m currently enrolle
 
 Ever since I got my hands on my first video game I’ve been hooked.  But I didn’t just want to play them, I wanted to know what made them tick, how they work, and how they are designed and engineered. I wanted to know more. This interest grew and developed, leading to me taking computer science class in highschool where I learned the fundamentals of coding in C++. The more I learned the more interesting it became, and here I am today.
 
-![A screenshot from Mega Mystery Mansion](/assets/images/Mega-Mystery-Mansion.png)
+![A screenshot from Mega Mystery Mansion](/assets/images/Mega-Mystery-Mansion-screenshot.png)
 
 *A screenshot from my grade 12 computer science class final project, which I led as project manager.*
 
