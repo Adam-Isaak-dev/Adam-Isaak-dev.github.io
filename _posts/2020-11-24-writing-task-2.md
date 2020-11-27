@@ -24,9 +24,9 @@ Upon connecting to the server the TLS handshake is started, the server transmits
 
 An aspect of TLS is HTTPS (Hypertext Transfer Protocol Secure), which is the secured version of HTTP. HTTPS uses encryption authentication from TLS protocol to secure data.
 
-{% figure caption:"Here you can see if a website is using HTTPS indicated by both the extension and the padlock in the upper left corner of your browser." %}
-![Top-left of search bar](/assets/20-11-24/TLS_HTTPS.png) 
-{% endfigure %}
+![Top-left of search bar](/assets/20-11-24/TLS_HTTPS.png)
+
+*Here you can see if a website is using HTTPS indicated by both the extension and the padlock in the upper left corner of your browser.*
 
 Here you can see if a website is using HTTPS indicated by both the extension and the padlock in the upper left corner of your browser.
 

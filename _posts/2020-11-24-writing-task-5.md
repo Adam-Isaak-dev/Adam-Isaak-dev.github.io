@@ -32,9 +32,10 @@ Creatures in an aggro deck should typically follow these characteristics,
 * High damage
 * Hit fast
 
-{% figure caption:"*Here are few cards that work well in an aggro deck.*" %}
+
 ![Aggro Cards](/assets/20-11-24/Aggro_Ex_cards.png)
-{% endfigure %}
+
+*Here are few cards that work well in an aggro deck.*
 
 ### Removal
 Removal is an important tool for an aggro deck to have, as it allows an aggro deck to eliminate blockers and get in more attacks. Burn spells are particularly good in this case as if they aren't being used to remove blockers they can be used to directly damage your opponent.

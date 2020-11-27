@@ -21,9 +21,9 @@ One of the biggest ways you can secure your accounts is to enable 2-factor authe
 The more factors of authentication you use to identify yourself, the harder it is for someone to gain access to your accounts.
 
 ## Password Managers
-{% figure caption:"*Dashlane, Lastpass and Bitwarden's app icons.*" %}
 ![Dashlane](/assets/20-11-24/Dashlane.png)![Lastpass](/assets/20-11-24/Lastpass.png)![Bitwarden](/assets/20-11-24/Bitwarden.png)
-{% endfigure %}
+
+*Dashlane, Lastpass and Bitwarden's app icons.*
 
 To be truly secure on the internet, every account you have should have a long, complex, and unique password. However, due to the limitations of your own memory, this isn’t a feasible option for most people, enter password managers.
 
