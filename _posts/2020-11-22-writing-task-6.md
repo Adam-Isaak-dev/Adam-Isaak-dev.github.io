@@ -21,6 +21,8 @@ This program revolves around three key parts:
 The reset functionality follows the following process:  
 ![reset flowchart](/assets/20-11-22/flowchart_1.png)
 
+*Reset Flowchart*
+
 ### Click functionality
 When the user clicks anywhere in the browser window we do the following:
 ``` javascript
@@ -62,5 +64,7 @@ if (matchedCount == cards.length){
 ## Conclusion
 The following diagram is an overview of the whole functionality of the game:
 ![program flowchart](/assets/20-11-22/flowchart_2.png)
+
+*Program Flowchart*
 
 To summarize the functionality once more, the three primary components of the program are a reset function to reset the game, a click function that reacts if the user clicks on cards and either matches it or sets it to show, and finally a function that checks to see if the user has won.  
