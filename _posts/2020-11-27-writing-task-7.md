@@ -42,7 +42,7 @@ Before anything else I need a better-looking theme for my website. After some di
 Next up I worked through the configuration files setting all the values to what I wanted. I then did some testing and bug fixing. Continuing on, I started adding my content to my website, filling out my webpages and adding posts. First I converted them to markdown and added the header details for Jekyll. Then I created an assets folder in my root so that I can add in my images. After a quick check everything appeared to be working.
 
 ## Launching the site
-To start, I first create a git repository that is named in the following structure username.github.io, this specific repository name allows me to use GitHub Pages. Then using the GitHub Desktop app, I add the repository and copy all my files in. Now before it will work I had to three things:
+To start, I first create a git repository that is named in the following structure username.github.io, this specific repository name allows me to use GitHub Pages. Then using the GitHub Desktop app, I add the repository and copy all my files in. Now before it will work I had to do three things:
 
 1. Switch the `gem jekyll` to `gem "github-pages", group: :jekyll_plugins` in my Gemfile.
 2. Switch `theme: jekyll-theme-basically-basic` to `remote_theme: "mmistakes/jekyll-theme-basically-basic"` in my _config file.
@@ -51,6 +51,6 @@ To start, I first create a git repository that is named in the following structu
 Then *voilà* my website has launched. After polishing it up a bit more I have what is now before you.
 
 ## Conclusion
-That is the overview of my process from start to finish. Beginning with selecting a web service, followed up by some experimentation that led me to use Jekyll. Next up was setting the website up, then it was customizing it and adding content. Before ending with launching the site through GitHub Pages.
+That is the overview of my process from start to finish. Beginning with selecting a web service, followed up by some experimentation that led me to use Jekyll. Next was setting the website up, then it was customizing it and adding content. Before ending with launching the site through GitHub Pages.
 
 > *Splash Image by [200 Degrees](https://pixabay.com/users/200degrees-2051452/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1653351) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1653351)*
