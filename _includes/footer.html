@@ -1,11 +1,13 @@
-<footer id="footer" class="site-footer">
-  <div class="inner">
-    <!-- <div class="copyright">
-      {% if site.copyright %}
-        {{ site.copyright | markdownify }}
-      {% else %}
-        <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}.</p>
-      {% endif %}
-    </div> -->
-  </div>
+<footer class="footer">
+    <p>{{site.username}}</p>
+    <p>
+      <a aria-label="Send email" href="#"><i class="icon fa fa-envelope"></i></a>
+      <a aria-label="My Google Plus" target="_blank" href="https://www.linkedin.com/in/adam-isaak-dev/"><i class="icon fa fa-linkedin-square" aria-hidden="true"></i></a>
+      <a aria-label="My Github" target="_blank" href="https://github.com/Adam-Isaak-dev"><i class="icon fa fa-github" aria-hidden="true"></i></a>
+    </p>
+    <p>Built with Jekyll and Theme by <a href="https://github.com/nrandecker">Nathan Randecker</a></p>
 </footer>
+<script src="//cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+<script src="{{ "/assets/js/sweet-scroll.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/assets/js/main.js" | prepend: site.baseurl }}"></script>
+{% include google-analytics.html %}

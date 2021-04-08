@@ -1,77 +1,19 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-lang: en-US
-title: Adam Isaak developer
+title: Adam Isaak - Dev
+description: A personal portfolio of all the cool things I did
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Adam Isaak
+user_description:  Greetings, I'm Adam, a Software Developer from Winnipeg. If you want to know what I'm usually up to it's either coding away on whatever school or personal project that's currently in my sights at my computer, or I'm prepping for my weekly D&D game... Also at my computer. Joking aside I love to create things that people enjoy and can experience. It's what drives me to learn new technologies and develop new solutions. If you want to know what I've done and what I'm good at keep on scrolling down and take a look, or swing by my LinkedIn or Github pages. Thanks for stopping on by!
+user_title: Software Developer
 email: adam.isaak.dev@gmail.com
-description: A personal portfolio and website for myself, and those interested.
-baseurl: # the optional subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-author:
-  name: Adam Isaak
-  picture: /assets/images/profile_photo.png
-github_username: Adam-Isaak-dev
-logo: /assets/images/logo.png
-search:  true
-search_full_content: false # true, false (default)
-search_provider: lunr
+github_username:  Adam-Isaak-dev
+linkedin__username: Adam Isaak
 
-# Build settings
-markdown: kramdown
-remote_theme: "mmistakes/jekyll-theme-basically-basic"
-plugins: # previsously gems
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-figure
+# Google-analytics
+google-analytics:
+  id: ""
 
-
-# Pagination - https://jekyllrb.com/docs/pagination/
-paginate: 10
-paginate_path: /page:num/
-
-# Exclude from processing.
-exclude:
-  - .asset-cache
-  - .bundle
-  - .codeclimate.yml
-  - .editorconfig
-  - .gitattributes
-  - .jekyll-assets-cache
-  - .sass-cache
-  - .scss-lint.yml
-  - CHANGELOG
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - node_modules
-  - Rakefile
-  - README
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-  - /docs # ignore Basically Basic sample site
-  - /example # ignore Basically Basic dev site
-
-# Front Matter Defaults
-defaults:
-  # _posts
-  - scope:
-      path: "_posts"
-      type: posts
-    values:
-      layout: post
-      read_time: true
+exclude: ['package.json', 'src' , 'node_modules']
