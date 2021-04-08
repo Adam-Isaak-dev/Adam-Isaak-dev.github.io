@@ -1,5 +1,5 @@
 # Adam-Isaak-dev.github.io
-My personal portfolio website, shows of my coding expertise and my favorite projects.
+My personal portfolio website, that displays my coding expertise alongisde my favorite projects.
 
 ## Technologies
 * Jekyll
